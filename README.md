@@ -1,3 +1,3 @@
 # mycode
 
-hello
+你好
